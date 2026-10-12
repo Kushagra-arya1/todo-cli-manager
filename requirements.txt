@@ -1,0 +1,4 @@
+# Python CLI To-Do List Manager
+# This project uses 100% Python Standard Library modules.
+# No external dependencies or pip packages are required.
+# Compatible with Python 3.8+.
